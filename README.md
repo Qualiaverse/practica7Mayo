@@ -37,3 +37,5 @@
 
 
 ![screen](https://summa.es/wp-content/uploads/2022/07/barc%CC%A7a-thumbnail-1.png)
+
+[Descargar PDF Planeacion](https://github.com/Qualiaverse/practica7Mayo/blob/main/planeacion.pdf)
